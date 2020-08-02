@@ -1,0 +1,9 @@
+xabikos.javascriptsnippets
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+formulahendry.auto-close-tag
+ritwickdey.liveserver
+msjsdiag.debugger-for-chrome
+firefox-devtools.vscode-firefox-debug
+pranaygp.vscode-css-peek
