@@ -13,7 +13,7 @@ function install-stuff($languaje) {
 $files = Get-ChildItem $PSScriptRoot -Filter *.txt
 foreach ($file in $files) {
     $option = '0'
-    while ($opiton.ToLower() -ne 'y' -and $option.ToLower() -ne 'n' ) {
+    while ($option.ToLower() -ne 'y' -and $option.ToLower() -ne 'n' ) {
         $option = Read-Host "Install $([System.IO.Path]::GetFileNameWithoutExtension($file)) stuff"
         if ($option.ToLower() -eq 'y') {
             if ([System.IO.Path]::GetFileNameWithoutExtension($file) -eq "Ruby") {
