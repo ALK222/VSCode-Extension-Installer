@@ -1,0 +1,6 @@
+dracula-theme.theme-dracula
+pkief.material-icon-theme
+coenraads.bracket-pair-colorizer-2
+anseki.vscode-color
+eamodio.gitlens
+christian-kohler.path-intellisense
